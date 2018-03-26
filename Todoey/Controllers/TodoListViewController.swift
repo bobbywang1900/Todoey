@@ -5,7 +5,7 @@
 //  Created by Irving Gonzalez on 3/22/18.
 //  Copyright © 2018 Crypto Royals. All rights reserved.
 //
-
+//Finished with set up now we are going to set up coredata
 import UIKit
 
 class TodoListViewController: UITableViewController {
